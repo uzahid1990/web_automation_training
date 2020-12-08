@@ -2,10 +2,10 @@
   "login": {
     "login_credentials": {
       "url_1": "https://login.yahoo.com/?.src=ym&.lang=en-US&.intl=us&.done=https%3A%2F%2Flocalhost%3A4080%2Fd",
-      "correct_userName": "nbqa.uz@yahoo.com",
-      "correct_pswd": "Automation@1",
-      "incorrect_userName": "nbqaa.automation@gmail.com",
-      "incorrect_pswd": "Automataion@1"
+      "correct_userName": "<email to be added>",
+      "correct_pswd": "<password to be added>",
+      "incorrect_userName": "<wrong email to be added>",
+      "incorrect_pswd": "<wrong password to be added>"
     }
   },
   "browsers": {
